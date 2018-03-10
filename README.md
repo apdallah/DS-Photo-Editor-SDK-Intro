@@ -8,3 +8,6 @@ For more information, please visit https://www.dsphotoeditor.com/ or register a 
 
 
 ![](screenshot-1.png)
+![](screenshot-2.png)
+![](screenshot-3.png)
+![](screenshot-4.png)
