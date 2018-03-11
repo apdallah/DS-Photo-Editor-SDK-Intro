@@ -7,7 +7,7 @@ With DS Photo Editor SDK, you can add a beautiful all-in-one photo editor into y
 For more information, please visit https://www.dsphotoeditor.com/ or register a developer account at https://developer.dsphotoeditor.com/login.
 
 
-![](screenshot-1.png)
-![](screenshot-2.png)
-![](screenshot-3.png)
-![](screenshot-4.png)
+![](screenshots/screenshot-1.png)
+![](screenshots/screenshot-2.png)
+![](screenshots/screenshot-3.png)
+![](screenshots/screenshot-4.png)
