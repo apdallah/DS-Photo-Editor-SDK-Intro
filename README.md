@@ -11,4 +11,4 @@ For more information, please visit https://www.dsphotoeditor.com/. To register a
 ![](screenshots/screenshot-3.png)
 ![](screenshots/screenshot-4.png)
 
-By integrating this SDK, you agree to our Terms of Service (https://www.dsphotoeditor.com/terms-of-service) and Privacy Policy (https://www.dsphotoeditor.com/privacy-policy). 
+By integrating DS Photo Editor SDK, you agree to our Terms of Service (https://www.dsphotoeditor.com/terms-of-service) and Privacy Policy (https://www.dsphotoeditor.com/privacy-policy). 
