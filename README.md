@@ -20,7 +20,7 @@ Key features in the SDK:
 
 To get started, please register a free developer account at https://developer.dsphotoeditor.com/login and add your iOS & Android apps in our developer dashboard. Sample code for iOS & Android integration is available for download from the developer dashboard.
 
-SDK documentation with step-by-step instructions can be found here:
+SDK documentation with step-by-step instructions can be found as below.
 Android: https://www.dsphotoeditor.com/android
 iOS (Objective-C): https://www.dsphotoeditor.com/ios-objective-c
 iOS (Swift): https://www.dsphotoeditor.com/ios-swift
