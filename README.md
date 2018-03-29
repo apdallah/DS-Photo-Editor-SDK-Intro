@@ -27,7 +27,7 @@ iOS (Swift): https://www.dsphotoeditor.com/ios-swift
 
 # Screenshots
 
-| ![](screenshots/screenshot-1.png) | ![](screenshots/screenshot-2.png) |
+| ![](screenshots/screenshot-1.png)| width=360 | ![](screenshots/screenshot-2.png) |
 ![](screenshots/screenshot-3.png)
 ![](screenshots/screenshot-4.png)
 
