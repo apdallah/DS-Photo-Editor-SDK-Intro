@@ -26,10 +26,10 @@ iOS (Objective-C): https://www.dsphotoeditor.com/ios-objective-c
 iOS (Swift): https://www.dsphotoeditor.com/ios-swift
 
 # Screenshots
-<img src="screenshots/screenshot-1.png" width="400">
-<img src="screenshots/screenshot-2.png" width="400">
-<img src="screenshots/screenshot-3.png" width="400">
-<img src="screenshots/screenshot-4.png" width="400">
+<img src="screenshots/screenshot-1.png" width="380">
+<img src="screenshots/screenshot-2.png" width="380">
+<img src="screenshots/screenshot-3.png" width="380">
+<img src="screenshots/screenshot-4.png" width="380">
 
 # Terms of Service and Privacy Policy
 
