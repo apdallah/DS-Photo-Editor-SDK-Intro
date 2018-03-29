@@ -1,4 +1,4 @@
-# hello-from-ds-photo-editor-sdk
+# DS Photo Editor SDK - iOS & Android
 
 DS Photo Editor SDK is an all-in-one photo editor SDK for iOS & Android. And it is 100% free for developers to use!
 
